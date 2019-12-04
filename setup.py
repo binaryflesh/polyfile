@@ -23,8 +23,7 @@ setup(
         'jinja2',
         'kaitaistruct>=0.7',
         'Pillow>=5.0.0',
-        'pyyaml>=3.13',
-        'setuptools'
+        'pyyaml>=3.13'
     ],
     entry_points={
         'console_scripts': [
